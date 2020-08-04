@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b018d74e-9829-486d-88af-874b7cef42cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pimenkoquestionset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5P.Pimenkoquestionset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5P.Pimenkoquestionset/css/Pimenkoquestionset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5P.Pimenkoquestionset/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5P.Pimenkoquestionset/js/Pimenkoquestionset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5P.Pimenkoquestionset/language/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5P.Pimenkoquestionset/library.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5P.Pimenkoquestionset/presave.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5P.Pimenkoquestionset/semantics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/content.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h5p.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eJ5EJaiHv5yMapJIdDxEfWKhTK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/H5P.Pimenkoquestionset/js" />
+      <recent name="$PROJECT_DIR$/H5P.Pimenkoquestionset/css" />
+      <recent name="$PROJECT_DIR$/H5P.Pimenkoquestionset" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b018d74e-9829-486d-88af-874b7cef42cc" name="Default Changelist" comment="" />
+      <created>1594026741654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594026741654</updated>
+      <workItem from="1594026743050" duration="23373000" />
+      <workItem from="1594376130820" duration="3470000" />
+      <workItem from="1596186871425" duration="2981000" />
+      <workItem from="1596203502282" duration="91000" />
+      <workItem from="1596203618234" duration="658000" />
+      <workItem from="1596204699323" duration="6027000" />
+      <workItem from="1596446600502" duration="2839000" />
+      <workItem from="1596454511714" duration="16577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1596454514206">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="380" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1596454514206" />
+    <state x="368" y="202" width="858" height="518" key="find.popup" timestamp="1596541610989">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="368" y="202" width="858" height="518" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1596541610989" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1594378266052">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.23.1440.877@0.23.1440.877" timestamp="1594378266052" />
+  </component>
+</project>

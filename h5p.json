@@ -1,0 +1,24 @@
+{
+  "title": "H5P Pimenko question set",
+  "language": "en",
+  "mainLibrary": "H5P.Pimenkoquestionset",
+  "embedTypes": [
+    "iframe"
+  ],
+  "authors": [
+    {
+      "name": "Pimenko",
+      "role": "Author"
+    }
+  ],
+  "source": "https://pimenko.com",
+  "license": "GNU GPL",
+  "licenseVersion": "3.0",
+  "preloadedDependencies": [
+    {
+      "machineName": "H5P.Pimenkoquestionset",
+      "majorVersion": "1",
+      "minorVersion": "0"
+    }
+  ]
+}
