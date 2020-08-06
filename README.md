@@ -1,6 +1,13 @@
 # H5P-Quiz-with-attempts
 Quiz with attempts but for now we have to also edit moodle core files
 
+Clone this repositery then use :
+```
+zip -r -D -X pimenkoquestionset.h5p *
+```
+To made the H5P package.
+
+
 # Copy and paste this code in h5p/classes/player.php
 ```
 <?php
