@@ -592,5 +592,13 @@
     "importance": "low",
     "default": "You have reached the number of authorized attempts",
     "description": "Text to display when the user reaches the number of attempts"
+  },
+  {
+    "name": "lastAttemptsText",
+    "type": "text",
+    "label": "Last attempt label",
+    "importance": "low",
+    "default": "You have reached the number of authorized attempts",
+    "description": "Text to display after user finish his last attempt"
   }
 ]

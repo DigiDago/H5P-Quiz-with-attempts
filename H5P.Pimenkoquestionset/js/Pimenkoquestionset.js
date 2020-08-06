@@ -27,6 +27,7 @@ H5P.Pimenkoquestionset = function(options, contentId, contentData) {
         passPercentage: 50,
         attemptsNumber: 0,
         noAttemptsText: 'You have reached the number of authorized attempts',
+        lastAttemptsText: 'You have reached the number of authorized attempts',
         questions: [],
         introPage: {
             showIntroPage: false,
@@ -133,6 +134,7 @@ H5P.Pimenkoquestionset = function(options, contentId, contentData) {
 
     var resulttemplate =
         '<div class="pimenko-questionset-results">' +
+        '  <div class="lastAttempt"><%= lastAttemptsText %></div>' +
         '  <div class="greeting"><%= message %></div>' +
         '  <div class="feedback-section">' +
         '    <div class="feedback-scorebar"></div>' +
@@ -748,7 +750,6 @@ H5P.Pimenkoquestionset = function(options, contentId, contentData) {
         var displayResults = function() {
             attempts++;
             self.triggerXAPICompleted(self.getScore(), self.getMaxScore(), success);
-
             var eparams = {
                 message: params.endGame.showResultPage ? params.endGame.message : params.endGame.noResultMessage,
                 comment: params.endGame.showResultPage ? (success ? params.endGame.oldFeedback.successGreeting : params.endGame.oldFeedback.failGreeting) : undefined,
@@ -756,7 +757,8 @@ H5P.Pimenkoquestionset = function(options, contentId, contentData) {
                 finishButtonText: params.endGame.finishButtonText,
                 solutionButtonText: params.endGame.solutionButtonText,
                 retryButtonText: params.endGame.retryButtonText,
-                continueButtonText: params.endGame.continueButtonText
+                continueButtonText: params.endGame.continueButtonText,
+                lastAttemptsText: attempts >= params.attemptsNumber ? params.lastAttemptsText : ''
             };
 
             // Show result page.

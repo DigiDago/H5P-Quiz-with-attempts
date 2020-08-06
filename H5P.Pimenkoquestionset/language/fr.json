@@ -276,6 +276,11 @@
       "label": "Aucunes tentatives autorisées",
       "default": "Vous avez atteint le nombre de tentatives autorisées",
       "description": "Texte à afficher quand l'utilisateur atteint le nombre de tentatives."
+    },
+    {
+      "label": "Dernière tentatives",
+      "default": "Vous avez terminé vôtre dernière tentatives",
+      "description": "Texte à afficher quand l'utilisateur termine sa dernière tentative."
     }
   ]
 }
